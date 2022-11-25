@@ -1,0 +1,85 @@
+.container{
+    height: 600px;
+    width: 900px;
+    background-color: rgb(202, 201, 201);
+   
+}
+.atas{
+    height: 40px;
+    width: 900px;
+    background-color: rgb(160, 159, 159);
+    
+}
+.abutua{
+    width: 30%;
+    height: 560px;
+    background-color: rgb(85, 85, 85);
+    float: left;
+}
+.huruf{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    margin-left: 10px;
+    padding-top: 10px;
+}
+.garis1{
+    background-color: rgb(160, 159, 159);
+    width: 100%;
+    text-align: center;
+    margin-top: 30px;
+    height: 40px;
+    color: white;
+}
+.garis2{
+    background-color: rgb(160, 159, 159);
+    width: 100%;
+    text-align: center;
+    margin-top: 5px;
+    height: 40px;
+    color: white;
+
+}
+.garis3{
+    background-color: rgb(160, 159, 159);
+    width: 100%;
+    text-align: center;
+    margin-top: 5px;
+    height: 40px;
+    color: white;
+}
+.konten{
+    background-color: white;
+    height: 350px;
+    width: 350px;
+    margin-top: 70px;
+    margin-left: 360px;
+    text-align: center;
+}
+h3{
+    text-align: center;
+    padding-top: 20px;
+    font-family: 'Arial Narrow', Arial, sans-serif;
+        
+}
+.satu{
+    height: 15px;
+    width: 250px;
+    margin-top: 15px;
+}
+.dua{
+    height: 75px;
+    width: 250px;
+    margin-top: 15px;
+  
+}
+.button{
+    background-color: rgb(16, 89, 224);
+    width: 250px;
+    height: 25px;
+    margin-top: 15px;
+    border-radius: 5px;
+    font-family:Arial, sans-serif;
+    color: white;
+   
+
+}

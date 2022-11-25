@@ -1,0 +1,89 @@
+.container {
+    width: 800px;
+    margin: auto;
+    background-color:blue;
+    height: 650px;
+}
+
+.header {
+    height: 200px;
+    background-color:blue;
+}
+
+.header h4 {
+    padding: 10px;
+    margin: 10px;
+    color: white;
+}
+
+.menu {
+    height: 40px;
+    background-color: rgb(172, 0, 0);
+}
+
+.menu h4 {
+    padding: 10px;
+    margin: 10px;
+    color: white;
+}
+
+.content {
+    height: 600px;
+    background-color: rgb(128, 124, 124);
+}
+
+.main {
+    width: 70%;
+    height: 600px;
+    float: left;
+    background-color: rgb(109, 112, 112);
+}
+
+.main h5 {
+    padding: 10px;
+}
+
+.main p {
+    padding: 20px;
+}
+
+.sidebar {
+    width: 30%;
+    height: 600px;
+    float: right;
+    background-color: rgb(216, 213, 199);
+}
+
+.sidebar a {
+     padding: auto;
+     margin: auto;
+     color: #000;
+}
+
+.sidebar ul li {
+    padding: 3px;
+    margin: 10px;
+}
+
+.clear {
+    clear: both;
+}
+
+.footer {
+    height: 55px;
+    background-color: rgb(8, 8, 8);
+    color: lavender;
+    opacity: 90%;
+    padding: 20px;
+    padding-left: 300px;
+    height: max-content;
+}
+
+.footer p{
+    opacity: 50%;
+}
+
+.footer a {
+    text-decoration: none;
+    color: white;
+}

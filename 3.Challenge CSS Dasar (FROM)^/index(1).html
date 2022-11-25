@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Form</title>
+    <style>
+        .container {
+            width: 800px;
+            margin: auto;
+            display: block;
+        }
+
+        h1 {
+            color: green;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        table, input, label, select, textarea, button {
+            display: block;
+            margin-top: 10px;
+        }
+
+        button {
+            background-color: royalblue;
+            color: white;
+            width: 100px;
+            height: 30px;
+            font-weight: bold;
+            font-family: Arial, Helvetica, sans-serif;
+            border-radius: 5px;
+            margin-left: 50px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Form Input Data Siswa</h1>
+        <form>
+            <label for="username"></label>
+            <input type="text" name="username" placeholder="Masukkan Nama Siswa">
+            <select>
+                <option value="--Pilih Jurusan--">-- Pilih Jurusan --</option>
+                <option value="RPL">RPL</option>
+                <option value="TKJ">TKJ</option>
+                <option value="TB">TB</option>
+                <option value="TBSM">TBSM</option>
+                <option value="TKRO">TKRO</option>
+            </select>
+            <label for="Alamat"></label>
+            <textarea name="Alamat" id="" cols="30" rows="5" placeholder="Masukkan Alamat Lengkap"></textarea>
+            <button type="submit">SIMPAN</button>
+        </form>
+    </div>
+</body>
+
+</html>

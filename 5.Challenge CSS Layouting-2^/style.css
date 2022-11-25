@@ -1,0 +1,74 @@
+.container {
+    width: 900px;
+    height: auto;
+    margin: auto;
+    background-color: black;
+}
+
+.header {
+    height: 250px;
+    background-color: yellow;
+}
+
+.satu {
+    color: black;
+    padding: 25px;
+    margin: 50px;
+}
+
+.menu {
+    height: 70px;
+    background-color: red;
+} 
+
+.dua {
+    color: rgb(255, 255, 255);
+    padding: 2px;
+    margin: 0px;
+}
+
+.content {
+    height: auto;
+    background-color: black;
+}
+
+.sidebar {
+    width: 30%;
+    height: 600px;
+    float: left;
+    background-color: orange;
+}
+
+.tiga {
+    color: #000;
+    padding: 100px;
+    margin: 20px;
+}
+
+.main {
+    width: 70%;
+    height: 600px;
+    float: right;
+    background-color: blue;
+}
+
+.empat {
+    color: white;
+    padding: 250px;
+    margin: 0px;
+}
+
+.clear {
+    clear: both;
+}
+
+.footer {
+    height: 100px;
+    background-color: green;
+}
+
+.lima {
+    color: white;
+    padding: 10px;
+    margin: 0px;
+}

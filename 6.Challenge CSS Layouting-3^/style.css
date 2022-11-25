@@ -1,0 +1,41 @@
+.container{
+    height: 850px;
+    background-color: red;
+    width: 1000px;
+}
+.menu{
+    height: 50px;
+    background-color: rgb(184, 184, 184);
+}
+.beranda{
+    width: 100px;
+    height: 40px;
+    margin-left: 20px;
+    background-color: grey;
+    margin-top: 5px;
+}
+.formulir{
+    width: 100px;
+    height: 40px;
+    margin-left: 20px;
+    background-color: grey;
+    margin-top: 5px;
+}
+.data{
+    width: 130px;
+    height: 40px;
+    margin-left: 20px;
+    background-color: grey;
+    margin-top: -8px;
+}
+.loker{
+    width: 100px;
+    height: 40px;
+    margin-left: 20px;
+    background-color: grey;
+    margin-top: 5px;
+}
+.oke{
+    height: 500px;
+   width: 1000px;
+}
